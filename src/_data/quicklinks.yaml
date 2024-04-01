@@ -1,14 +1,14 @@
 ---
 links:
-  - title: Netlify CMS
-    url: "https://www.netlifycms.org/"
-    desc: Open source content management for your Git workflow
-  - title: Eleventy
-    url: "https://www.11ty.dev/"
-    desc: Eleventy is a simpler static site generator.
-  - title: Alpine.js
-    url: "https://github.com/alpinejs/alpine"
-    desc: A minimal framework for composing JavaScript behavior in your markup.
-  - title: Tailwind CSS
-    url: "https://tailwindcss.com/"
-    desc: A utility-first CSS framework for rapidly building custom designs.
+  - title: Our Blog
+    url: "/blog"
+    desc: Ensuring the safety of your animals while indulging in reading.
+  - title: 5 Essential Tips for Keeping Your Pets Safe
+    url: "/blog"
+    desc: 5 Essential Tips for Keeping Your Pets Safe Read now to learn how to safeguard your furry friends from potential hazards!
+  - title: Protecting Your Animal Companions
+    url: "/blog"
+    desc: Protecting Your Animal Companions Dive into our guide on pet safety for valuable insights on creating a secure environment.
+  - title: Prioritize Pet Safety
+    url: "/blog"
+    desc: Prioritize Pet Safety Explore our article for practical advice on ensuring the well-being of your beloved animals.
