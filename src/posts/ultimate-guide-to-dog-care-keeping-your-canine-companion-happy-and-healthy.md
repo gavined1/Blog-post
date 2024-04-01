@@ -16,6 +16,8 @@ tags:
 
 Bringing a dog into your life is a rewarding experience, but it comes with responsibilities. From proper nutrition to exercise and socialization, every aspect of your dog's care contributes to their overall well-being and happiness. Follow these guidelines to become the best pet parent your dog could ask for.
 
+![cute dog](/static/img/cute-dog-icon.png "Cute dog")
+
 ## Nutrition
 
 Good nutrition is the foundation of your dog's health. Provide a balanced diet that meets their nutritional needs based on factors such as age, size, and activity level. Choose high-quality dog food with real meat as the primary ingredient and avoid fillers like corn and soy. Consult with your veterinarian to determine the best feeding schedule and portion sizes for your furry friend.
