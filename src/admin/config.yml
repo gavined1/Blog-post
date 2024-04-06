@@ -29,7 +29,49 @@ collections:
         name: "tags"
         multiple: true
         create: true
-        options: ["Tags", "created", "from", "config.yml"]
+        options:
+[
+  "Wildlife",
+  "Animal behavior",
+  "Conservation",
+  "Zoology",
+  "Animal welfare",
+  "Biodiversity",
+  "Endangered species",
+  "Pets",
+  "Animal rights",
+  "Ecology",
+  "Wildlife photography",
+  "Animal habitats",
+  "Ethology",
+  "Pet care",
+  "Marine life",
+  "Birdwatching",
+  "Animal intelligence",
+  "Nature",
+  "Animal companionship",
+  "Wildlife rehabilitation",
+  "Pet wellness",
+  "Animal health",
+  "Veterinary care",
+  "Animal medicine",
+  "Animal rehabilitation",
+  "Animal surgery",
+  "Holistic pet care",
+  "Preventive care",
+  "Animal nutrition",
+  "Animal dentistry",
+  "Animal physiotherapy",
+  "Animal acupuncture",
+  "Palliative care for pets",
+  "Animal behavior therapy",
+  "Animal welfare standards",
+  "Animal rescue",
+  "Shelter animals",
+  "Animal fostering",
+  "Spaying and neutering",
+  "Animal hospice care"
+]
   - label: "Settings"
     name: "settings"
     editor:
