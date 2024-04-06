@@ -7,10 +7,12 @@ description: Taking care of a dog involves more than just providing food and
 author: Gavin
 date: 2024-04-01T12:40:17.316Z
 tags:
-  - Tags
-  - config.yml
-  - from
-  - created
+  - Pets
+  - Pet care
+  - Pet wellness
+  - Animal health
+  - Holistic pet care
+  - Preventive care
 ---
 ## Introduction
 
