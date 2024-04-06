@@ -6,10 +6,10 @@ description: Keeping your pets safe should be a top priority for every pet
 author: Gavin
 date: 2024-04-03T11:24:22.952Z
 tags:
-  - Tags
-  - from
-  - created
-  - config.yml
+  - Animal health
+  - Pet care
+  - Animal behavior
+  - Pets
 ---
 
 
