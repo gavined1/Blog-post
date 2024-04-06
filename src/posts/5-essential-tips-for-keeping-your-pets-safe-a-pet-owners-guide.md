@@ -7,10 +7,10 @@ description: As pet owners, ensuring the safety and well-being of our beloved
 author: Gavin
 date: 2024-04-01T12:54:02.573Z
 tags:
-  - Tags
-  - from
-  - created
-  - config.yml
+  - Pets
+  - Pet care
+  - Animal health
+  - Pet wellness
 ---
 ### 1. Pet-Proof Your Home
 
