@@ -37,6 +37,8 @@ As for whether it was dangerous, **Argentinosaurus**, like other sauropods, was 
 
 ![Argentinosaurus](/static/img/download.jpg "Argentinosaurus")
 
+\-﻿
+
 ![Argentinosaurus](/static/img/download-1-.jpg "Argentinosaurus")
 
 ### 3. *The smallest dinosaur*
@@ -46,6 +48,8 @@ The smallest known dinosaur is **Microraptor**, a tiny feathered dinosaur that l
 As for whether it was dangerous, **Microraptor** was likely not a threat to humans, as it was much smaller than even the smallest modern-day birds. However, like many small predators, it would have been a formidable hunter of smaller prey in its ancient environment.
 
 ![Microraptor fossil ](/static/img/download-3-.jpg "Microraptor fossil ")
+
+\-﻿
 
 ![Microraptor](/static/img/download-2-.jpg "Microraptor")
 
@@ -94,5 +98,7 @@ The combination of these catastrophic events led to drastic changes in the Earth
 The perception that *Tyrannosaurus rex* (T-rex) is the only dinosaur may stem from its popularity in popular culture, including movies, TV shows, and books. However, there were actually many different species of dinosaurs that lived during the Mesozoic Era. T-rex is just one of them, albeit a very famous one due to its size, ferocity, and distinctive appearance. Other well-known dinosaurs include Triceratops, Stegosaurus, Velociraptor, and Brachiosaurus, among many others.
 
 ![T-rex](/static/img/download-7-.jpg "T-rex")
+
+\-﻿
 
 ![T-rex dino ](/static/img/download-6-.jpg "T-rex dino ")
