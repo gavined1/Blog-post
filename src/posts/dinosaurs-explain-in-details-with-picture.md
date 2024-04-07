@@ -93,6 +93,6 @@ The combination of these catastrophic events led to drastic changes in the Earth
 
 The perception that *Tyrannosaurus rex* (T-rex) is the only dinosaur may stem from its popularity in popular culture, including movies, TV shows, and books. However, there were actually many different species of dinosaurs that lived during the Mesozoic Era. T-rex is just one of them, albeit a very famous one due to its size, ferocity, and distinctive appearance. Other well-known dinosaurs include Triceratops, Stegosaurus, Velociraptor, and Brachiosaurus, among many others.
 
-![T-rex](/static/img/download-7-.jpg "T-rex")
+![T-rex](/static/img/t-rexbones.jpg "T-rex")
 
-![T-rex dino ](/static/img/download-6-.jpg "T-rex dino ")
+![T-rex dino ](/static/img/t-rex.png "T-rex dino ")
