@@ -8,7 +8,10 @@ img {
   margin-left: auto;
   margin-right: auto;
 }
-
+.word {
+  font-size: 2em;
+  transition: color 0.5s ease;
+}
 h1 {
   @apply text-4xl tracking-tighter mb-3 text-center lg:text-7xl;
 }

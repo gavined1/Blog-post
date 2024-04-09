@@ -7,13 +7,35 @@ path: home
 <div
   class="container mx-auto lg:h-screen flex flex-col justify-center items-center"
 >
-  <h1>
-    Welcome to
+  <div class="word" id="word">
+    Welcome To
     <strong
       class="bg-clip-text text-transparent bg-gradient-to-r from-green-700 to-yellow-500"
     >
       {{title}}
     </strong>
-  </h1>
+  </div>
+
   {% include "./_includes/partials/content.html" %}
 </div>
+<script>
+  const words = ["Explore", "Learn", "The World", "Nature", "Animals"];
+  let currentIndex = 0;
+
+  function changeWord() {
+    document.getElementById("word").textContent = words[currentIndex];
+    document.getElementById("word").style.color = getRandomColor();
+    currentIndex = (currentIndex + 1) % words.length;
+  }
+
+  function getRandomColor() {
+    const letters = "0123456789ABCDEF";
+    let color = "#";
+    for (let i = 0; i < 6; i++) {
+      color += letters[Math.floor(Math.random() * 16)];
+    }
+    return color;
+  }
+
+  setInterval(changeWord, 2000); // Change word every 2 seconds
+</script>
