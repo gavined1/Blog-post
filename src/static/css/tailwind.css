@@ -3,6 +3,17 @@
 @tailwind utilities;
 
 /*Your Custom CSS Goes here*/
+body {
+  font-family: "Concert One", sans-serif;
+  font-weight: 10;
+  font-style: normal;
+}
+p {
+  font-family: "Cormorant Garamond", serif;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 1.2em;
+}
 img {
   display: block;
   margin-left: auto;
