@@ -3,6 +3,11 @@
 @tailwind utilities;
 
 /*Your Custom CSS Goes here*/
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 
 h1 {
   @apply text-4xl tracking-tighter mb-3 text-center lg:text-7xl;
