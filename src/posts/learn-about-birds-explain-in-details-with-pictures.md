@@ -14,7 +14,7 @@ tags:
 ---
 *Learning about birds is essential for various reasons*. Birds play critical roles in ecosystems, serving as indicators of environmental health and contributing to biodiversity. They are subjects of scientific research, providing insights into ecology, behavior, and adaptation. Additionally, birdwatching offers recreational and educational opportunities, fostering a deeper connection with nature. Birds also hold cultural and aesthetic value, inspiring human creativity and spirituality. Overall, understanding and appreciating birds are essential for conservation efforts and promoting environmental awareness.
 
-![](/static/img/42544460.jpg "Teacher showing pupils about bird.")
+![](/static/img/birdsss.jpg "Teacher showing pupils about bird.")
 
 L﻿et's get to know some interesting facts about birds.
 
@@ -26,25 +26,19 @@ There are *over 10,000 species* of birds worldwide, with new species still being
 
 Birds are commonly classified into *40 different groups* called *orders*. These orders include familiar ones like **Passeriformes** (perching birds), **Falconiformes** (birds of prey), and **Anseriformes** (waterfowl). Each order contains multiple families, genera, and species.
 
-
-
-* ####  *P﻿asseriformes (Peaching birds)*
+* #### *P﻿asseriformes (Peaching birds)*
 
 ![](/static/img/download-8-.jpg "Passeriformes (Peaching birds)")
 
 The order **Passeriformes**, commonly known as perching birds or songbirds, is the largest order of birds and comprises over *6,000 species* worldwide. Passerines are characterized by their specialized feet, with three toes pointing forward and one backward, which allows them to perch easily on branches and other surfaces. They are known for their diverse range of songs and calls and include familiar birds such as sparrows, finches, robins, thrushes, warblers, and many others.
 
-
-
-* ####  ***Falconiformes** (birds of prey)*
+* #### **\*Falconiformes** (birds of prey)*
 
 ![](/static/img/download-9-.jpg "Falconiformes (birds of prey)")
 
 The order **Falconiformes**, which includes diurnal birds of prey like falcons, hawks, eagles, and vultures, comprises around *300 species* worldwide. These birds are characterized by their hooked beaks, strong talons, keen eyesight, and carnivorous diet.
 
-
-
-* ####  ***Anseriformes** (waterfowl)*
+* #### **\*Anseriformes** (waterfowl)*
 
 ![](/static/img/images-009.jpg "Anseriformes (waterfowl)")
 
@@ -86,7 +80,7 @@ The **Cassowary** is a large, flightless bird found in tropical rainforests of N
 
 Despite their potentially dangerous behavior, cassowaries play important roles in their ecosystems as seed dispersers, helping to maintain the diversity of plant species in their habitat. Conservation efforts are underway to protect cassowary populations and reduce conflicts between humans and these magnificent birds.
 
-![](/static/img/cassowary-genus-casuarius-flightless-bird-from-new-guinea-tropic-photo.jpg "Cassowary ")
+![](/static/img/cassowary_diversity.jpg "Cassowary ")
 
 ### 6﻿. *The less dangerous bird*
 
@@ -112,7 +106,7 @@ The lifespan of birds varies greatly depending on species. Some small songbirds 
 
 It's important to note that these are general estimates, and individual lifespans can vary based on factors such as genetics, environmental conditions, predation, disease, and human impacts. Additionally, birds in captivity often have longer lifespans compared to their wild counterparts due to reduced predation risk, access to veterinary care, and consistent food sources.
 
-### 8﻿. *Habitats* 
+### 8﻿. *Habitats*
 
 Birds inhabit a wide range of habitats, from forests and grasslands to deserts, wetlands, mountains, and urban areas. Different bird species have adapted to specific habitats based on their ecological requirements and evolutionary history. Here are some common bird habitats:
 
