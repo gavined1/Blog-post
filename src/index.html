@@ -7,12 +7,11 @@ path: home
 <div
   class="container mx-auto lg:h-screen flex flex-col justify-center items-center"
 >
-  <div class="word" id="word">
-    Welcome To
+  <div class="word flex justify-center​" id="word">
     <strong
       class="bg-clip-text text-transparent bg-gradient-to-r from-green-700 to-yellow-500"
     >
-      {{title}}
+      {{ title }}
     </strong>
   </div>
 
@@ -57,7 +56,7 @@ path: home
     const letters = "0123456789ABCDEF";
     let color = "#";
     for (let i = 0; i < 6; i++) {
-      color += letters[Math.floor(Math.random() * 16)];
+      color += letters[Math.floor(Math.random() * 17)];
     }
     return color;
   }

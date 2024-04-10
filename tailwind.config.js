@@ -1,4 +1,6 @@
+/** @type {import('tailwindcss').Config} */
 module.exports = {
+  darkMode: 'class',
   content: ["./**/*.html"],
   theme: {
     container: {
@@ -9,5 +11,5 @@ module.exports = {
     },
   },
   variants: {},
-  plugins: [require("@tailwindcss/typography")],
+  plugins: [require("@tailwindcss/typography"), require('flowbite/plugin')],
 };
