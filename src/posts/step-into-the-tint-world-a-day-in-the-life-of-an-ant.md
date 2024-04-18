@@ -1,5 +1,5 @@
 ---
-title: "Step into the Tint world: A Day in the life of an Ant."
+title: "Step into the Tiny world: A Day in the life of an Ant."
 description: Ants are social insects that live in colonies. They communicate
   through chemical signals and coordinate tasks like foraging and caring for the
   young. Known for their strength relative to size, ants play important roles in
