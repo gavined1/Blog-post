@@ -23,7 +23,15 @@ h1 {
 h3 {
   @apply text-2xl font-bold mb-3;
 }
-
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+strong {
+  @apply dark:text-gray-300;
+}
 /* Syntax Highlighting*/
 
 body :not(pre) > code[class*="language-"],
