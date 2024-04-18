@@ -1,13 +1,12 @@
 ---
 title: "The Secret Lives of Urban Wildlife: Exploring the Hidden World of City
   Animals"
-description: ' Title: "The Secret Lives of Urban Wildlife: Exploring the Hidden
-  World of City Animals"  Description: Have you ever wondered what goes on in
-  the bustling streets and quiet corners of our cities when the sun goes down?
-  Join us on a fascinating journey as we uncover the hidden lives of urban
-  wildlife. From the elusive raccoons that roam our neighborhoods to the
-  nocturnal adventures of city-dwelling owls, this blog post delves deep into
-  the captivating world of animals thriving in the concrete jungle.'
+description: Have you ever wondered what goes on in the bustling streets and
+  quiet corners of our cities when the sun goes down? Join us on a fascinating
+  journey as we uncover the hidden lives of urban wildlife. From the elusive
+  raccoons that roam our neighborhoods to the nocturnal adventures of
+  city-dwelling owls, this blog post delves deep into the captivating world of
+  animals thriving in the concrete jungle.
 author: Gavin
 date: 2024-04-18T03:47:06.587Z
 tags:
